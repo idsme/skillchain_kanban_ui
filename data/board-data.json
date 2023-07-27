@@ -1,0 +1,143 @@
+[
+    {
+        "name":"Powerwall",
+        "items": [
+            {
+                "id":1,
+                "order": 0,
+                "priority": 0,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "title": "Company website redesign.",
+                "category":"Work",
+                "dueDateTimeUTC": "2017-10-10T00:00:00.000Z",
+                "stars": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "order": 1,
+                "priority": 2,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "title": "Mobile app login process prototype.",
+                "dueDateTimeUTC": "2017-10-10T00:00:00.000Z",
+                "stars": 4,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Skaten-Sports",
+        "items": [
+            {
+                "id":3,
+                "order": 1,
+                "priority": 1,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "type": "sports",
+                "title": "Research and strategy for upcoming project.",
+                "dueDateTimeUTC": "2017-10-10T00:00:00.000Z",
+                "stars": 3,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/79.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Family",
+        "items": [
+            {
+                "id":4,
+                "order": 1,
+                "priority": 2,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "title": "Dashboard layout redesign.",
+                "dueDateTimeUTC": "2017-10-10T00:00:00.000Z",
+                "stars": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+                    }
+                ]
+            },
+            {
+                "id":5,
+                "order": 1,
+                "priority": 2,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "title": "Social media posts",
+                "dueDateTimeUTC": "2023-10-10T00:00:00.000Z",
+                "stars": 0,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/68.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Friends",
+        "items": [
+            {
+                "id":6,
+                "order": 1,
+                "priority": 2,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "title": "Review client spec document and give feedback.",
+                "dueDateTimeUTC": "2023-10-10T00:00:00.000Z",
+                "stars": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+                    }
+                ]
+            },
+            {
+                "id":7,
+                "order": 1,
+                "priority": 2,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "title": "Navigation designs",
+                "dueDateTimeUTC": "2023-10-10T00:00:00.000Z",
+                "stars": 0,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/68.jpg"
+                    }
+                ]
+            },
+            {
+                "id":8,
+                "order": 1,
+                "originalEstimateInSeconds": 15,
+                "timeSpendSeconds": 13,
+                "title": "Create style guide based on previous feedback",
+                "dueDateTimeUTC": "2023-10-10T00:00:00.000Z",
+                "stars": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/64.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]
